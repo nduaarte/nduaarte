@@ -2,4 +2,4 @@
 
 Desenvolver React Native
 
-[![Twitter Badge](https://imgur.com/a/W0BAx1Q)](https://twitter.com/nduaarte)
+[![Twitter Badge](https://imgur.com/530ifzP)](https://twitter.com/nduaarte)
