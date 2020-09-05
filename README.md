@@ -16,3 +16,5 @@ O verdadeiro mestre é um eterno aprendiz.
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)](https://reactnative.dev/) <br />
 [![Redux Badge](https://img.shields.io/badge/-Redux-grey?logo=redux)](https://redux.js.org/) <br />
 [![NodeJs Badge](https://img.shields.io/badge/-NodeJs-grey?logo=node.js)](https://nodejs.org/en/) <br />
+
+* Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin, lá eu vou postar o sobre andamento.
