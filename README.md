@@ -17,4 +17,4 @@ O verdadeiro mestre é um eterno aprendiz.
 [![Redux Badge](https://img.shields.io/badge/-Redux-grey?logo=redux)](https://redux.js.org/) <br />
 [![NodeJs Badge](https://img.shields.io/badge/-NodeJs-grey?logo=node.js)](https://nodejs.org/en/) <br />
 
-- Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin, lá eu vou postar o sobre andamento.
+Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
