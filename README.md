@@ -10,6 +10,7 @@ O verdadeiro mestre é um eterno aprendiz.
 [![JavaScript Badge](https://img.shields.io/badge/-ES6%20ES7%20ES8-grey?logo=javascript)]() <br />
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-grey?logo=html5)]() <br />
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-grey?logo=css3)]() <br />
+[![Scrum Badge](https://img.shields.io/badge/-Scrum-grey)]() <br />
 
 
 ### Praticando diariamente:
