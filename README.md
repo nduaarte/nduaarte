@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-%40nduaarte-blueviolet?logo=twitter)](https://twitter.com/nduaarte)
 [![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nycollas-duarte-024a291a1/)
 
-O verdadeiro mestre é um eterno aprendiz.
+- Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
 ### Experiência:
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
@@ -18,4 +18,6 @@ O verdadeiro mestre é um eterno aprendiz.
 [![Redux Badge](https://img.shields.io/badge/-Redux-grey?logo=redux)]() <br />
 [![UX&UI Badge](https://img.shields.io/badge/-UX%20%26%20UI-grey)]() <br />
 
-- Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
+
+
+O verdadeiro mestre é um eterno aprendiz.
