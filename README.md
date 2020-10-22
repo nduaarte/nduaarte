@@ -11,11 +11,10 @@
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-grey?logo=html5)]() <br />
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-grey?logo=css3)]() <br />
 [![Scrum Badge](https://img.shields.io/badge/-Scrum-grey)]() <br />
-
+[![Redux Badge](https://img.shields.io/badge/-Redux-grey?logo=redux)]() <br />
 
 ### Praticando diariamente:
-[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
-[![Redux Badge](https://img.shields.io/badge/-Redux-grey?logo=redux)]() <br />
+[![React Badge](https://img.shields.io/badge/-React%20JS-grey?logo=react)]() <br />
 [![UX&UI Badge](https://img.shields.io/badge/-UX%20%26%20UI-grey)]() <br />
 
 O verdadeiro mestre é um eterno aprendiz.
