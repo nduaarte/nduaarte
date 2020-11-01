@@ -13,6 +13,7 @@
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento. :fire:
 
 ### Experiência:
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
 [![JavaScript Badge](https://img.shields.io/badge/-ES6%20ES7%20ES8-grey?logo=javascript)]() <br />
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-grey?logo=html5)]() <br />
