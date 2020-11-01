@@ -6,7 +6,7 @@
 <a href="github.com/redspaace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
-<a href="github.com/redspaace">
+<a href="https://wakatime.com/@redspaace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
 </a>
 
