@@ -5,8 +5,6 @@
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redspaace&repo=STAR-WARS-PLANET-FINDER)](https://github.com/redspaace/STAR-WARS-PLANET-FINDER)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redspaace)]()
 
 ### Experiência:
