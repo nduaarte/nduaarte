@@ -13,8 +13,8 @@
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento. :fire:
 
 ### Tecnologias:
+![]()
 
-<img width="32" height="32" src="https://simpleicons.org/icons/typescript.svg" fill="#d34f" />
 
 
 O verdadeiro mestre é um eterno aprendiz.
