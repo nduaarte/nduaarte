@@ -5,7 +5,7 @@
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redspaace)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redspaace&repo=STAR-WARS-PLANET-FINDER)](https://github.com/redspaace/STAR-WARS-PLANET-FINDER)
 
 ### Experiência:
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
