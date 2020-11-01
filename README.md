@@ -4,12 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nycollas-duarte-024a291a1/)
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
 </a>
 
 
