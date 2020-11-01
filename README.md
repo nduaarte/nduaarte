@@ -5,6 +5,8 @@
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redspaace)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Experiência:
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
 [![JavaScript Badge](https://img.shields.io/badge/-ES6%20ES7%20ES8-grey?logo=javascript)]() <br />
