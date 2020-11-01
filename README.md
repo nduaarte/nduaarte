@@ -5,7 +5,13 @@
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redspaace)]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
 
 ### Experiência:
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
