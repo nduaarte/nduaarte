@@ -7,6 +7,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redspaace&repo=STAR-WARS-PLANET-FINDER)](https://github.com/redspaace/STAR-WARS-PLANET-FINDER)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redspaace)]()
+
 ### Experiência:
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-grey?logo=react)]() <br />
 [![JavaScript Badge](https://img.shields.io/badge/-ES6%20ES7%20ES8-grey?logo=javascript)]() <br />
