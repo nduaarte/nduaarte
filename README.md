@@ -13,8 +13,11 @@
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento. :fire:
 
 ### Tecnologias:
-![]()
-
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813216-62cfeb00-1c65-11eb-9551-4b060a5fbe1b.png">
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813591-de329c00-1c67-11eb-9d48-34123f3f36ee.png">
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813478-46cd4900-1c67-11eb-8fce-b93e2ea38582.png">
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813504-7419f700-1c67-11eb-8d02-a29fc4bc4041.png">
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813551-b0e5ee00-1c67-11eb-848b-6ea440c7fcc9.png">
 
 
 O verdadeiro mestre é um eterno aprendiz.
