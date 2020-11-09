@@ -9,8 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
 <a href="https://wakatime.com/@redspaace">
-<figure><embed src="https://wakatime.com/share/@redspaace/51c32397-b4d9-4afe-b0a2-181d972813b8.svg"></embed></figure>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
 </a>
 
 ### Tecnologias:
