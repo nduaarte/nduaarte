@@ -9,7 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
 <a href="https://wakatime.com/@redspaace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
+<img src="https://github.com/redspaace/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+
 </a>
 
 ### Tecnologias:
