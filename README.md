@@ -6,7 +6,7 @@
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
   
 <a href="github.com/redspaace">
- <img width="500" height="300" src="https://wakatime.com/share/@redspaace/052d84fd-2838-4536-a11f-537947915ef6.png" />
+ <img src="https://wakatime.com/share/@redspaace/052d84fd-2838-4536-a11f-537947915ef6.png" />
 </a>
 <a href="https://wakatime.com">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
