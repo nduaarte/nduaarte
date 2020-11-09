@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
 <a href="https://wakatime.com">
-  <img width="300px" height="200px" src="https://wakatime.com/share/@redspaace/b3ae2a7d-a098-4ade-9c28-d4cdce8e3ccb.png" />
+  <img width="300px" height="200px" src="https://wakatime.com"><img src="https://wakatime.com/share/@redspaace/052d84fd-2838-4536-a11f-537947915ef6.png" />
 </a>
 
 ### Tecnologias:
