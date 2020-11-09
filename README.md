@@ -8,8 +8,8 @@
 <a href="github.com/redspaace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
-<a href="https://wakatime.com/@redspaace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=redspaace" />
+<a href="https://wakatime.com">
+  <img width="300px" height="200px" src="https://wakatime.com/share/@redspaace/b3ae2a7d-a098-4ade-9c28-d4cdce8e3ccb.png" />
 </a>
 
 ### Tecnologias:
