@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
 </a>
 <a href="https://wakatime.com/@redspaace">
-<img src="https://github.com/redspaace/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<figure><embed src="https://wakatime.com/share/@redspaace/51c32397-b4d9-4afe-b0a2-181d972813b8.svg"></embed></figure>
 
 </a>
 
