@@ -4,13 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nycollas-duarte-024a291a1/)
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
-  
+
+<a href="https://wakatime.com">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
+</a> 
 <a href="github.com/redspaace">
  <img witdh="500px" height="300" src="https://wakatime.com/share/@redspaace/052d84fd-2838-4536-a11f-537947915ef6.png" />
 </a>
-<a href="https://wakatime.com">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
-</a>
+
 
 ### Tecnologias:
 <p align="start">
