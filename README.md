@@ -1,7 +1,7 @@
 # Nycollas Duarte
 
 [![Twitter Badge](https://img.shields.io/badge/-%40nduaarte-blueviolet?logo=twitter)](https://twitter.com/nduaarte)
-[![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nycollas-duarte-024a291a1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nduaarte/)
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
