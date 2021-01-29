@@ -10,11 +10,10 @@
 
 ### Tecnologias:
 <p align="start">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813216-62cfeb00-1c65-11eb-9551-4b060a5fbe1b.png">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813591-de329c00-1c67-11eb-9d48-34123f3f36ee.png">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813478-46cd4900-1c67-11eb-8fce-b93e2ea38582.png">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/97813504-7419f700-1c67-11eb-8d02-a29fc4bc4041.png">
-  <img width="55" height="55" src="https://user-images.githubusercontent.com/60564538/97813551-b0e5ee00-1c67-11eb-848b-6ea440c7fcc9.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335298-48f57280-626b-11eb-92ef-1d83a801429e.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335301-4a269f80-626b-11eb-9db3-c77d30eebf79.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335302-4a269f80-626b-11eb-8094-f35e53b377b7.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335303-4a269f80-626b-11eb-8cf1-3426d598350b.png">
 </p>
 
 O verdadeiro mestre é um eterno aprendiz.
