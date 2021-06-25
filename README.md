@@ -4,7 +4,7 @@
 
 - Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redspaace)](https://github.com/redspaace/github-readme-stats)
 
 
 ### Tecnologias:
