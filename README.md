@@ -1,18 +1,24 @@
-# Nycollas Duarte
+<h2>Prazer, meu nome é Nycollas Duarte</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nycollas%20Duarte-blueviolet?logo=linkedin)](https://www.linkedin.com/in/nduaarte/)
+<a href="https://www.linkedin.com/in/nduaarte/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nduaarte/" />
+</a>
 
-- Os projetos que estou implementando atualmente, podem ser encontrados no meu Linkedin. Lá eu vou postar sobre o andamento.
+<br>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redspaace)](https://github.com/redspaace/github-readme-stats)
+Olá, me chamo Nycollas e sou desenvolvedor FrontEnd no Brasil. Atualmente focado em aplicações mobile com React Native. Além de programação, gosto de curtir jogos online, jogar basquete e viajar.
+
+Entusiasta das melhores tecnologias de desenvolvimento web e mobile, como: React, Redux, TypeScript, Styled-Components, etc.
+
+<br>
+
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+
+![redspaace's GitHub stats](https://github-readme-stats.vercel.app/api?username=redspaace&hide=contribs,prs&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact&theme=dracula)
 
 
-### Tecnologias:
-<p align="start">
-  
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335302-4a269f80-626b-11eb-8094-f35e53b377b7.png">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335298-48f57280-626b-11eb-92ef-1d83a801429e.png">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/60564538/106335303-4a269f80-626b-11eb-8cf1-3426d598350b.png">
-</p>
+<h3>Tecnologias</h3>
 
-O verdadeiro mestre é um eterno aprendiz.
