@@ -14,18 +14,13 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 <p align="left">
-  👋 Olá, me chamo Nycollas e sou desenvolvedor FrontEnd no Brasil. Atualmente focado em aplicações mobile com React Native. Além de programação, gosto de curtir jogos online,         jogar basquete e viajar.
+  👋 Hi, my name is Nycollas and I'm a FrontEnd developer in Brazil. Currently focused on mobile applications with React Native. In addition to programming, I enjoy playing online games, playing basketball and traveling.
   
-  💻 Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Futuramente, contribuir com a comunidade e tornar-me FullStack utilizando NodeJs.
+  💻 Enthusiast of the best web and mobile development technologies. In the future, contribute to the community and become FullStack using NodeJs.
 </p>
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=redspaace.visitor-badge" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3>🛠 Techs</h3>
 
