@@ -7,18 +7,19 @@
 <br>
 <br>
 
-Olá, me chamo Nycollas e sou desenvolvedor FrontEnd no Brasil. Atualmente focado em aplicações mobile com React Native. Além de programação, gosto de curtir jogos online, jogar basquete e viajar.
-
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile, como: React, Redux, TypeScript, Styled-Components, etc.
-
+<div align="right">
+  <p align="right">
+    Olá, me chamo Nycollas e sou desenvolvedor FrontEnd no Brasil. Atualmente focado em aplicações mobile com React Native. Além de programação, gosto de curtir jogos online,         jogar basquete e viajar.
+  Entusiasta das melhores tecnologias de desenvolvimento web e mobile, como: React, Redux, TypeScript, Styled-Components, etc.
+  </p>
+  <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+</div>
+  
 <br>
-
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ![redspaace's GitHub stats](https://github-readme-stats.vercel.app/api?username=redspaace&hide=contribs,prs&theme=dracula&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact&theme=dracula)
-
 
 <h3>Tecnologias</h3>
 
