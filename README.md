@@ -19,7 +19,7 @@
   💻 Enthusiast of the best web and mobile development technologies. In the future, contribute to the community and become FullStack using NodeJs.
 </p>
     
-<img src="https://visitor-badge.glitch.me/badge?page_id=redspaace.visitor-badge" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=nduaarte.visitor-badge" />
 
 
 <h3>🛠 Techs</h3>
