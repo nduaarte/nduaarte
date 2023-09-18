@@ -35,5 +35,5 @@ Currently these are the technologies that I know most:
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redspaace&layout=compact&theme=dracula)
-![redspaace's GitHub stats](https://github-readme-stats.vercel.app/api?username=redspaace&hide=contribs,prs&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduaarte&layout=compact&theme=dracula)
+![redspaace's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduaarte&hide=contribs,prs&theme=dracula&show_icons=true)
