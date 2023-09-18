@@ -14,7 +14,7 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 <p align="left">
-  👋 Hi, my name is Nycollas and I'm a FrontEnd developer in Brazil. Currently focused on mobile applications with React Native. In addition to programming, I enjoy playing online games, playing basketball and traveling.
+  👋 Hi, my name is Nycollas and I'm a Mobile developer in Brazil. Currently focused on mobile applications with React Native. In addition to programming, I enjoy playing online games, playing basketball and traveling.
   
   💻 Enthusiast of the best web and mobile development technologies. In the future, contribute to the community and become FullStack using NodeJs.
 </p>
