@@ -4,7 +4,6 @@
 
 <br>
 <br>
-<br>
 
 <p align="left">
   👋 Hi, my name is Nycollas and I'm a Mobile developer in Brazil. Currently focused on applications with React Native. In addition to programming, I enjoy playing online games, playing basketball and traveling.
