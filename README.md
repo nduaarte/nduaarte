@@ -1,8 +1,10 @@
-<br>
-
 <h2>Hi, I'm Nycollas Duarte</h2>
 
-  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+
+<br>
+<br>
+<br>
 
 <p align="left">
   👋 Hi, my name is Nycollas and I'm a Mobile developer in Brazil. Currently focused on applications with React Native. In addition to programming, I enjoy playing online games, playing basketball and traveling.
