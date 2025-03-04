@@ -1,9 +1,5 @@
 <h2>Hi, I'm Nycollas Duarte</h2>
 
-<a href="https://www.linkedin.com/in/nduaarte/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nduaarte/" />
-</a>
-
 <br>
 
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
