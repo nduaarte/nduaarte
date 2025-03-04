@@ -1,7 +1,5 @@
 <h2>Hi, I'm Nycollas Duarte</h2>
 
-<br>
-
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 <p align="left">
