@@ -5,31 +5,34 @@
 <br/>
 
 <p>
-  I’m a <strong>Frontend & Mobile Developer</strong> specialized in building high-performance applications for web and mobile using <strong>React Native</strong>, <strong>React</strong> and <strong>TypeScript</strong>.  
-  I focus on clean architecture, performance and maintainability — delivering complete solutions for companies in Brazil, the US and Israel.
+  <a href="https://nycollasdev.vercel.app" target="_blank">
+    🔗 nycollasdev.vercel.app
+  </a>
 </p>
 
 <p>
-  I’ve shipped <strong>10+ apps</strong>, reaching <strong>20,000+ downloads</strong> across stores.  
-  My work spans multiple domains: fintech & open finance (Dinzo), education and quizzes (DOD Questões), HR/corporate tools (Cargill Bioenergia), marketplaces (Shareitt), CRM/sales tools (Ziptime) and internal company apps (Caule App).
+  I'm a <strong>Frontend & Mobile Developer</strong> focused on building high-quality applications using 
+  <strong>React Native</strong>, <strong>React</strong> and <strong>TypeScript</strong>.  
+  I enjoy creating clean, scalable and intuitive digital experiences — from UI structure and state management 
+  to performance and architectural decisions.
 </p>
 
-<h3>⚙️ Tech stack & tools</h3>
-
 <p>
-  <strong>TypeScript · React Native · React · Next.js · Expo · Zustand · TanStack Query · Node.js · Python (automation) · CI/CD · UX/UI · Agile · Scrum · Kanban</strong>
+  I work mainly with modern JavaScript/TypeScript ecosystems, bringing together strong UI/UX thinking 
+  and practical engineering to ship reliable features across web and mobile.
 </p>
 
-<h3>🚀 What I’m focused on now</h3>
+<h3>⚙️ Technologies & tools I use</h3>
 
 <p>
-  • Building and maintaining mobile apps with clean architecture and high performance.<br/>
-  • Delivering scalable web-mobile solutions integrating APIs, offline mode, notifications and cross-platform features.<br/>
-  • Improving automation workflows and development productivity.
+  <strong>
+    React Native · React · TypeScript · Expo · Next.js · Zustand · TanStack Query ·  
+    Node.js · Python (automation) · Git · CI/CD · UX/UI
+  </strong>
 </p>
 
-<h3>💡 Let’s build</h3>
+<h3>🚀 What drives me</h3>
 
 <p>
-  If you’re interested in building something — an app, a tool or a complete project — I’m open.
+  Building smooth interfaces, improving performance, refining architecture decisions, and constantly learning to deliver better products.
 </p>
