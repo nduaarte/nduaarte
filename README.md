@@ -1,6 +1,6 @@
 <h2>Hi, I'm Nycollas Duarte 👋</h2>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" height="180" src="https://github.com/nduaarte/nduaarte/blob/master/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp" />
 
 <br/>
 
