@@ -13,7 +13,7 @@
 <p>
   I'm a <strong>Frontend & Mobile Developer</strong> focused on building high-quality applications using 
   <strong>React Native</strong>, <strong>React</strong> and <strong>TypeScript</strong>.  
-  I enjoy creating clean, scalable and intuitive digital experiences — from UI structure and state management 
+  I enjoy creating clean, scalable and intuitive digital experiences from UI structure and state management 
   to performance and architectural decisions.
 </p>
 
