@@ -26,8 +26,8 @@
 <h3>🚀 Open Source Contributions</h3>
 <p>
   <a href="https://github.com/facebook/react-native/pull/57356" target="_blank">
-    <strong>react-native</strong>
+    <strong>react/react-native</strong>
   </a> — Fixed a bug in the CSS gradient color stop interpolation algorithm, 
   where positions were calculated incorrectly when a positioned color stop 
-  was immediately followed by an unpositioned one. ✅ merged
+  was immediately followed by an unpositioned one. ✅ Merged
 </p>
