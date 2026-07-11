@@ -20,7 +20,7 @@
 <p>
   <strong>
     React Native · React · TypeScript · Expo · Next.js · Zustand · TanStack Query ·  
-    Node.js · Python (automation) · Git · CI/CD · UX/UI
+    Node.js · Git · CI/CD · UX/UI
   </strong>
 </p>
 <h3>🚀 Open Source Contributions</h3>
