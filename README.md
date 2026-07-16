@@ -31,3 +31,9 @@
   where positions were calculated incorrectly when a positioned color stop 
   was immediately followed by an unpositioned one. ✅ Merged
 </p>
+
+<p>
+  <a href="https://github.com/TanStack/query/pull/11010" target="_blank">
+    <strong>TanStack/query</strong>
+  </a> — Fixed malformed Markdown hidden-comment syntax (<code>[//]: # 'comment'</code> for <code>[//]: # (comment)</code>) across 38 documentation source files, resolving visible marker artifacts in the rendered docs. 🟠 Open
+</p>
