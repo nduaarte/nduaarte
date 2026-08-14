@@ -41,5 +41,5 @@
 <p>
   <a href="https://github.com/react/react-native/pull/57928" target="_blank">
     <strong>react/react-native</strong>
-  </a> — Fixed a Hermes bytecode version mismatch crashing SwiftPM Release builds on launch, caused by the runtime and compiler resolving their versions from two independent, unsynced sources. 🟧 Open
+  </a> — Fixed a Hermes bytecode version mismatch crashing SwiftPM Release builds on launch, caused by the runtime and compiler resolving their versions from two independent, unsynced sources. ✅ Merged
 </p>
